@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A10.Werewolf
+  m_EditorClassIdentifier: 
+  displayText: "\"It looked like a wolf, but I've never seen a wolf capable of standing
+    on two legs. We started running. I was able to get away but my b..boyfriend Mathew
+    didn't make it....\"\r -Caroline\n \r\nCaroline starts to tremble\r\n \r\n\"Hey
+    it's okay we'll make sure no one has to go through this again\"\r\n \r\nYou leave
+    Caroline's house.\r\n \r\n\"She has to be lying we hunted down all the werewolf
+    packs years ago\" -Abel\r\n \r\n\"You might be right but it doesn't hurt to take
+    some precautions. Let's get some supplies and head to the forest first thing
+    tomorrow\"\r\n \r\n1.Continue...\r"
+  nextStates:
+  - {fileID: 11400000, guid: d35535533a5e174418349a165f31af8f, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: X3.Surrounded
+  m_EditorClassIdentifier: 
+  displayText: "You and Able start to set up camp. Abel takes out a small tent from
+    his backpack and puts it together.\r\n \r\nNight falls upon the two of you and
+    you take turns sleeping. Abel gets to sleep first as you stand watch.\r\n \r\nHalfway
+    through your shift you hear a howl and wake up Abel. The two of you reach for
+    your riffles. \r\n \r\nFrom one moment to the next you see Abel get rip to shreds,
+    there are appendages everywhere. Then you feel a sharp pain, blood starts covering
+    you, your vision begins getting blurry.\r\n \r\nGame Over!\r\n \r\n1.Play Again\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 7e60857cb93961e4d94f70fd370a5728, type: 2}

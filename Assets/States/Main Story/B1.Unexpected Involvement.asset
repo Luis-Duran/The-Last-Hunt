@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B1.Unexpected Involvement
+  m_EditorClassIdentifier: 
+  displayText: "You finish catching up with your old hunting mates and leave the
+    bar. As you turn on the ignition to your 1969 Mustang you hear a loud scream
+    followed by gunshots.\r\n \r\nWhat do you do?\r\n \r\n1.Leave, this is not my
+    business\r\n\n2.Run back to the bar\r"
+  nextStates:
+  - {fileID: 11400000, guid: bb50c2c1b733b9d4493cb7a324d93fc8, type: 2}
+  - {fileID: 11400000, guid: c3a17b39ccd65814f91e11b965ca3895, type: 2}

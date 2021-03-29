@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B4.Silver Knife
+  m_EditorClassIdentifier: 
+  displayText: "There's a fellow hunter wounded by the corner of the bar. He sees
+    you looking around and toses you a silver knife.\r\n\nYou catch the knife and
+    rush the werewolf. Its ears twitch, it heard you.\r\n\nThe werewolf turns around
+    and sprints through a window.\n\r\n1.Get help and see that the hunters in the
+    bar get medical attention.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 920bad3501d909345822bd06f111d0cb, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A7.Her Anecdote
+  m_EditorClassIdentifier: 
+  displayText: "\"F..fine I'll cooperate\" -Caroline\r\n \r\n\"Thank you. What can
+    you remember from the attack?\"\r\n \r\n\"Well, I was camping with my boyfriend
+    and a few of his friends. It was getting late so my boyfriend and I went inside
+    our tent to get some rest. Then we heard a howl, at first I thought it was one
+    of his buddies messing with us b..but then....\" -Caroline\r\n \r\nCaroline starts
+    to cry.\r\n \r\nWhat will you do?\r\n\n1.Confort her and try to get her to calm
+    down\r\n\n2. Leave she's not going to give us any useful information\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 0d65705308ca7b94b892061f9c70e3f3, type: 2}
+  - {fileID: 11400000, guid: bc75ddddb28f2104c8ff9b77717f0e7c, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A4.Lone Survivor
+  m_EditorClassIdentifier: 
+  displayText: "\"Yeah, one girl. She's been silent ever since her friends got murdered
+    so I haven't been able to get any information from her\" -Abel\r\n\n1.\"Let's
+    go talk to her\"\r\n\n2.\"I guess it's better to give her some space and let
+    her grief, we'll get back to it tomorrow\" \r"
+  nextStates:
+  - {fileID: 11400000, guid: bf02f97e23e5a4343831e9e9acdd4d1a, type: 2}
+  - {fileID: 11400000, guid: 65adbc41a2dc36f43beec801054cef59, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B3.Shots Fired
+  m_EditorClassIdentifier: 
+  displayText: 'You aim and take a shot. The pellets hit the werewolf in the back.
+    It looks around and escapes through the window.
+
+
+    1.Help Abel and call an
+    ambulance
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 920bad3501d909345822bd06f111d0cb, type: 2}

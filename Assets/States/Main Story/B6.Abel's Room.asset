@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B6.Abel's Room
+  m_EditorClassIdentifier: 
+  displayText: "You enter the hospital and ask for Abel's room number. The nurse
+    at the front desk point you to his room and you enter.\r\n\n\"Jack I'm glad you
+    were there last night, you saved my life. I still can't believe it, but I guess
+    it's true there is a werewolf running loose in New Orleans\" -Abel\r\n\n1.\"I
+    can't believe I got dragged into this mess\"\r\n\n2.\"We'll my job here is done,
+    I'm sure you can handle the rest\"\r"
+  nextStates:
+  - {fileID: 11400000, guid: 3b1220d71bf13f74aaf05ba6a6c3e9f5, type: 2}
+  - {fileID: 11400000, guid: 082afafa32eeb8540bab3b7389586e30, type: 2}

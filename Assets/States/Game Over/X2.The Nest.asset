@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: X2.The Nest
+  m_EditorClassIdentifier: 
+  displayText: "\"Good idea\"-Abel\r\n\nYou follow the footprints to a cave. You
+    hear growling and get your rifle at the ready. Abel follows.\r\n\nOut of nowhere
+    3 shadows appear. You and Abel turn around and start shooting. These are not
+    any wild animals. You recognize these creatures, they are werewolves!\r\n\nBoth
+    you and Abel start shooting but regular bullets won't do a thing. You get a few
+    shots in but the werewolf surrounds the two of you.\r\n\nYou blackout, once you
+    can open your eyes it's too late. You see Abel's dead body a few feet away and
+    your vision starts to fade.\n\r\nGame Over!\r\n\n1.Play Again\r"
+  nextStates:
+  - {fileID: 11400000, guid: 7e60857cb93961e4d94f70fd370a5728, type: 2}

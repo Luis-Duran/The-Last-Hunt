@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B2.Bar Fight
+  m_EditorClassIdentifier: 
+  displayText: "You rush to the trunk of your car, load a few rounds into an old
+    shotgun, and rush through the front door.\r\n\nThere it is a werewolf about to
+    tear Abel, an old hunting pal, apart. But how, you hunted and killed all know
+    packs in 1999.\r\n\nNot time hesitate, what will you do?\r\n\n1.Shoot\r\n\n2.
+    Try to find a weapon made of silver\r"
+  nextStates:
+  - {fileID: 11400000, guid: 25eafcfb97136624eaa839fa52f4186a, type: 2}
+  - {fileID: 11400000, guid: f0c043bff9c99344086e311ffa5bb22c, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A6.Interrogation
+  m_EditorClassIdentifier: 
+  displayText: "The following day you head to the victim's house. You get to the
+    front door, knock, and she opens the door.\r\n \r\n\"Hey, my name is Jack and
+    this is my partner Abel, we are here to investigate the events that transpired
+    while you were camping, what's your name?\"\r\n \r\n\"C..caroline I...i really
+    don't want to talk much about it\" -Caroline\r\n \r\n1.\"I understand you've
+    been through a lot in the last couple of days but with your help, we might be
+    able to stop whatever attack you and your friends\"\r\n \r\n2.\"Look we need
+    you to start talking. Don't you understand lives are at stake here. We can't
+    keep on wasting time with you, someone else might end up getting hurt\"\r"
+  nextStates:
+  - {fileID: 11400000, guid: ee3a05a39037643449431d04871ebcdd, type: 2}
+  - {fileID: 11400000, guid: ee3a05a39037643449431d04871ebcdd, type: 2}

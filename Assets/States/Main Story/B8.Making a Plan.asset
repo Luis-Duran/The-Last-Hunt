@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: B8.Making a Plan
+  m_EditorClassIdentifier: 
+  displayText: "A few days pass by and Abel gets cleared from the hospital. You two
+    meet back at the bar to figure out what the next move should be.\r\n \r\n\"So
+    where should we start?\"-Abel\r\n \r\n1.\"Let's gather some supplies first\"\r\n\n2.\"Let
+    track this werewolf before it leaves town\"\r\n"
+  nextStates:
+  - {fileID: 11400000, guid: 6c0e871c837b0c34e8e6d85af6bcd036, type: 2}
+  - {fileID: 11400000, guid: f969a8d7b2577464ea56ee5a0aed29d4, type: 2}

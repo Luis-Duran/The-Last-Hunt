@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A3.Just a Wild Animal
+  m_EditorClassIdentifier: 
+  displayText: "\"Yeah I thought so, let's head there and investigate. One can never
+    be too sure, especially in a city like New Orleans\" -Abel\r\n\n1.Continue\u2026\r"
+  nextStates:
+  - {fileID: 11400000, guid: 65adbc41a2dc36f43beec801054cef59, type: 2}

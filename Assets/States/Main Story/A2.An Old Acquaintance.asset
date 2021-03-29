@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A2.An Old Acquaintance
+  m_EditorClassIdentifier: 
+  displayText: "Abel, an old hunting partner, approaches you.\r\n \r\n\"Ah Jack,
+    how long has it been? At least 5 years since our last job together\" -Abel\r\n\r\n\"Speaking
+    of, I was recently investigated a group of campers that were murdered not too
+    far from here, at Couterie Forest\" -Abel\r\n \r\n\"What do you think could be
+    out there?\"\r -Abel\n\n1.\"It's probably a wild animal\"\r\n\n2.\"No idea, were
+    there any survivors?\"\r"
+  nextStates:
+  - {fileID: 11400000, guid: e14ee6b79ee97824a8f07a20e6d5f687, type: 2}
+  - {fileID: 11400000, guid: 9771ec27035e69f4ba81d6348a4cd156, type: 2}

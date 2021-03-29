@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2488220c37709a847b6b72d17e471a50, type: 3}
+  m_Name: A9.Comforting Caroline
+  m_EditorClassIdentifier: 
+  displayText: "You put your arm around Caroline.\r\n \r\n\"Hey, it\u2019s okay take
+    your time let me get you a glass of water\"\r\n \r\nYou bring a glass of water
+    and hand it to Caroline. She starts sipping from it and eventually calms down.\r\n\r\n\"Can
+    we pick up from where we left off?\"\r\n \r\n\"Y...yes, sorry about that. After
+    the howl, we heard screaming and got out of the tent to see what was going on.
+    All we could see were body parts scattered around the camp. And then we saw it...\"\r
+    -Caroline\n \r\n1.\"What did you see?\"\r"
+  nextStates:
+  - {fileID: 11400000, guid: 4d9c37dabb7d8e84987a6defb2d8af7c, type: 2}
